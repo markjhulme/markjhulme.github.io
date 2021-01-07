@@ -37,3 +37,31 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+  
+#----  
+ 
+#theme: jekyll-agency
+
+#remote_theme: raviriley/agency-jekyll-theme
+
+#url    : "http://markjhulme.com" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+
+#title      : Mark J. Hulme
+#email      : mark@markjhulme.com #this is also the email contact forms will go to
+#description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
+#author     : Mark J. Hulme
+# logo:     #optional, defaults to site title
+  # path: assets\img\clients\creative-market.jpg
+  # height: 60 #height in px, defaults to 52px
+
+#analytics:
+#  google: #Google Analytics tracking code here
+
+#collections:
+#  portfolio:
+
+#markdown: kramdown
+
+#plugins:
+#  - jekyll-remote-theme
